@@ -1,8 +1,11 @@
-#Description
+![GitHub All Releases](https://img.shields.io/badge/score-125-green)
+![GitHub All Releases](https://img.shields.io/badge/language-C-blue)
+![GitHub All Releases](https://img.shields.io/badge/bonus-done-red)
+# Description
 ---
 The purpose of this project is to code a small data exchange program using UNIX signals.
 ---
-##Common Instructions
+## Common Instructions
 • Your project must be written in C.
 • Your project must be written in accordance with the Norm. If you have bonus
 files/functions, they are included in the norm check and you will receive a 0 if there
@@ -31,7 +34,7 @@ to easily test your work and your peers’ work. You will find those tests espec
 useful during your defence. Indeed, during defence, you are free to use your tests
 and/or the tests of the peer you are evaluating.
 
-##Project instructions
+## Project instructions
 • Name your executable files client and server.
 • You have to turn in a Makefile which will compile your source files. It must not
 relink.
@@ -58,7 +61,7 @@ functions:
 ◦ usleep
 ◦ exit
 
-##Mandatory Part
+## Mandatory Part
 You must create a communication program in the form of a client and a server.
 • The server must be started first. After its launch, it has to print its PID.
 • The client takes two parameters:
@@ -75,7 +78,7 @@ needing to restart.
 UNIX signals.
 • You can only use these two signals: SIGUSR1 and SIGUSR2.
 
-##Bonus part
+## Bonus part
 Bonus list:
 • The server acknowledges every message received by sending back a signal to the
 client.
