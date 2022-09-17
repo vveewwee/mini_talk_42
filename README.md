@@ -1,6 +1,9 @@
 ![GitHub All Releases](https://img.shields.io/badge/score-125-green)
-![GitHub All Releases](https://img.shields.io/badge/language-C-blue)
 ![GitHub All Releases](https://img.shields.io/badge/bonus-done-red)
+![GitHub All Releases](https://img.shields.io/badge/language-C-blue)
+![GitHub All Releases](https://img.shields.io/badge/C-91.8-9cf)
+![GitHub All Releases](https://img.shields.io/badge/Makefile-8.2-9cf)
+
 # Description
 ---
 The purpose of this project is to code a small data exchange program using UNIX signals.
